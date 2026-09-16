@@ -15,3 +15,5 @@ wheels/
 
 # Files
 .DS_Store
+.jupyter/collaboration_sessions.json
+.jupyter_ystore.db
