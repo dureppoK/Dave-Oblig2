@@ -12,3 +12,6 @@ wheels/
 # Dir
 /data/
 /.ipynb_checkpoints/
+
+# Files
+.DS_Store

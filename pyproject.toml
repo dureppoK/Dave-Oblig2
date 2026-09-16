@@ -9,6 +9,7 @@ authors = [
 requires-python = ">=3.12"
 dependencies = [
     "jupyter>=1.1.1",
+    "jupyter-collaboration>=5.0.3",
 ]
 
 [project.scripts]
